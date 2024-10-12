@@ -1,2 +1,2 @@
 # JupyterNotebook
-Ejercicio Jupyrter Notebook
+Ejercicio Jupyter Notebook
